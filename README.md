@@ -2,7 +2,7 @@ NLP Resume Matcher & Feedback Tool
 
 This project is part of our group assignment for NLP. It focuses on analyzing resumes and matching them to a given job description using Natural Language Processing techniques. It also gives simple feedback on writing style based on verbs and passive voice usage.
 
-** What It Does**
+**What It Does**
 
 Extracts resume content from PDF, DOCX, and TXT files
 
@@ -16,7 +16,7 @@ Ranks candidates and visualizes results in a chart
 
 Recruiters spend a lot of time screening resumes. We wanted to automate part of that process using NLP. Our tool helps shortlist resumes that are most relevant to a job and gives feedback on writing quality.
 
-** Tech Stack**
+**Tech Stack**
 
 Python 
 
@@ -52,7 +52,7 @@ Top resumes are ranked and visualized using a bar chart showing similarity score
 
 
 **Files**
-NLP_Group_Assignment_Assignment_3.ipynb – Main code (Jupyter notebook)
+NLP_Group_Assignment_Assignment_.ipynb – Main code 
 
 README.md – You’re reading it!
 
