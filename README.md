@@ -53,7 +53,7 @@ Top resumes are ranked and visualized using a bar chart showing similarity score
 
 **Files**
 
-NLP_Group_Assignment_Assignment_.ipynb – Main code 
+nlp_group_assignment_assignment_3.py – Main code 
 
 README.md – You’re reading it!
 
