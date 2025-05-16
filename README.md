@@ -1,4 +1,5 @@
 NLP Resume Matcher & Feedback Tool
+
 This project is part of our group assignment for NLP. It focuses on analyzing resumes and matching them to a given job description using Natural Language Processing techniques. It also gives simple feedback on writing style based on verbs and passive voice usage.
 
 ** What It Does**
